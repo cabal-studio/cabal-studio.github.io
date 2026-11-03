@@ -1,0 +1,2 @@
+# app-ads.txt for C.A.B.A.L. Studio (CloudFall)
+# Paste below the lines from the LevelPlay dashboard (Settings > app-ads.txt), replacing this comment.
