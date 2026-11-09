@@ -1,5 +1,6 @@
 OWNERDOMAIN=cabal-studio.github.io
 ironsrc.com, 694227, DIRECT
+google.com, pub-5908190084756627, DIRECT, f08c47fec0942fa0
 
 media.net, 8CUH2L333, RESELLER
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
